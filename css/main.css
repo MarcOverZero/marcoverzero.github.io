@@ -1,0 +1,51 @@
+body {
+  background: linear-gradient(50deg, #ffffff 0%, 	#5F9EA0 100%);
+}
+
+.header {
+  background-image: url(https://scontent.fapa1-2.fna.fbcdn.net/v/t31.0-8/15326162_10100282824474324_3588782712538756066_o.jpg?oh=c2824c3bf580794d2db20b056e30a1ed&oe=5976DA47);
+  height: 400px;
+  background-position: center center;
+}
+
+h1 {
+  color: #708090;
+  font-family: "Comic Sans", sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+h2 {
+  color: #708090;
+  font-family: "Comic Sans", sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  width: 50%;
+}
+
+p {
+  color: black;
+  line-height: 30px;
+  font-family: 'Aerial';
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.portrait {max-height: 100px;}
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(200, 200, 200, 0.3);
+  border-bottom: 1px solid rgba(200, 200, 200, 0.3);
+}
